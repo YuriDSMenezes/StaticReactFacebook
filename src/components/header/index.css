@@ -1,0 +1,25 @@
+div.header {
+  background: #4A90E2;
+  color: white;
+  height: 64px ;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+div.header a {
+  text-decoration: none;
+  color: #fff;
+}
+
+div.header h1 {
+margin-left: 100px;
+}
+
+div.profile {
+  margin-right: 100px;
+}
+
+div.logo img {
+  height:100px;
+}
