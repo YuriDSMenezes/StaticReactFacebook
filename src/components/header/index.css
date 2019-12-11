@@ -18,6 +18,14 @@ margin-left: 100px;
 
 div.profile {
   margin-right: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.profile img {
+    border-radius: 50%;
+    margin-left: 20px;
 }
 
 div.logo img {
